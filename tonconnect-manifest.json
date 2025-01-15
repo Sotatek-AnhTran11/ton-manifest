@@ -1,5 +1,5 @@
 {
   "url": "localhost:3000",
   "name": "Smart Pocket",
-  "iconUrl": "./app/favicon.ico"
+  "iconUrl": "localhost:3000/icons/favicon.ico"
 }
